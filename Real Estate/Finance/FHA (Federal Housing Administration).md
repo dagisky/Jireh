@@ -29,6 +29,6 @@ From a home buyer’s perspective, the main reasons to apply for an FHA home loa
 - **Down Payment** - 3.5%
 - **Debt to Income Ratio** - (Max 43%)
 - **Steady Income** - Borrowers need to have a steady employment history or reliable income   (Lenders typically prefer to see at least two years of consistent employment or income in the same field or line of work)
-- **Mortgage Insurance**: FHA loans require both an upfront mortgage insurance premium (MIP) and annual mortgage insurance premium regardless of the amount of the down payment
+- [[Mortgage Insurance]]: FHA loans require both an upfront mortgage insurance premium (MIP) and annual mortgage insurance premium regardless of the amount of the down payment
 - Property Requirements: The property being financed with an FHA loan must meet certain standards and pass FHA appraisal to ensure it is safe, secure and meets minimum property requirements.
 	- FHA loans are intended for primary residence only thus must be owner occupied at least for 12 months after the loan is issued.
