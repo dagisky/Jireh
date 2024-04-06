@@ -128,8 +128,17 @@
                 "file": "Real Estate/Finance/FHA (Federal Housing Administration).md"
               }
             }
+          },
+          {
+            "id": "132e6b9a04ff1b21",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd686eab366028ae",
+  "active": "1869dc51fb968aef",
   "lastOpenFiles": [
-    "Templates/Generic.md",
     "Templates/Basic.md",
     "Real Estate/Finance/FHA (Federal Housing Administration).md",
+    "Templates/Generic.md",
     "Templates",
     "Real Estate/Finance",
     "Real Estate"
