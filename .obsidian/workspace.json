@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Estate/Finance/FHA (Federal Housing Administration).md",
+                "file": "Real Estate/Privacy as Asset Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Estate/Finance/FHA (Federal Housing Administration).md",
+                "file": "Real Estate/Privacy as Asset Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Estate/Finance/FHA (Federal Housing Administration).md",
+                "file": "Real Estate/Privacy as Asset Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Estate/Finance/FHA (Federal Housing Administration).md"
+                "file": "Real Estate/Privacy as Asset Protection.md"
               }
             }
           },
@@ -154,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f5d10aef2e83829",
+  "active": "3097d45a6909c9fe",
   "lastOpenFiles": [
-    "Real Estate/Finance/Mortgage Insurance.md",
+    "Real Estate/Wyoming LLC.md",
+    "Real Estate/Privacy as Asset Protection.md",
     "Real Estate/Finance/FHA (Federal Housing Administration).md",
+    "Real Estate/Finance/Untitled.md",
+    "Real Estate/Finance/Mortgage Insurance.md",
     "Templates/Basic.md",
     "Templates/Generic.md",
     "Templates",
