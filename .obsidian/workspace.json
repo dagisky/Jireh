@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Estate/Privacy as Asset Protection.md",
+                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9453cece99b4f61a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "bac90ba02a5e747b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Estate/Privacy as Asset Protection.md",
+                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Estate/Privacy as Asset Protection.md",
+                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Estate/Privacy as Asset Protection.md"
+                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md"
               }
             }
           },
@@ -154,12 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3097d45a6909c9fe",
+  "active": "bac90ba02a5e747b",
   "lastOpenFiles": [
-    "Real Estate/Wyoming LLC.md",
     "Real Estate/Privacy as Asset Protection.md",
+    "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
+    "Real Estate/Wyoming LLC.md",
     "Real Estate/Finance/FHA (Federal Housing Administration).md",
-    "Real Estate/Finance/Untitled.md",
     "Real Estate/Finance/Mortgage Insurance.md",
     "Templates/Basic.md",
     "Templates/Generic.md",
