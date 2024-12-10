@@ -16,7 +16,9 @@
                 "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DSCR Loan (Debt Service Coverage Ratio)"
             }
           },
           {
@@ -26,17 +28,23 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
             }
           },
           {
             "id": "bac90ba02a5e747b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
-              }
+                "file": "Business Ideas/Buy Boring Business.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buy Boring Business"
             }
           }
         ],
@@ -60,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -75,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
+                "file": "Business Ideas/Buy Boring Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Buy Boring Business"
             }
           },
           {
@@ -123,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
+                "file": "Business Ideas/Buy Boring Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Buy Boring Business"
             }
           },
           {
@@ -137,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md"
-              }
+                "file": "Business Ideas/Buy Boring Business.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Buy Boring Business"
             }
           },
           {
@@ -155,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -177,8 +201,10 @@
   },
   "active": "bac90ba02a5e747b",
   "lastOpenFiles": [
-    "Real Estate/Privacy as Asset Protection.md",
     "Real Estate/Finance/DSCR Loan (Debt Service Coverage Ratio).md",
+    "Business Ideas/Buy Boring Business.md",
+    "Business Ideas",
+    "Real Estate/Privacy as Asset Protection.md",
     "Real Estate/Wyoming LLC.md",
     "Real Estate/Finance/FHA (Federal Housing Administration).md",
     "Real Estate/Finance/Mortgage Insurance.md",
